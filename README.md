@@ -1,10 +1,14 @@
-基于ReactNative的便签应用
-
-启动：
-`npx expo start`
-
+便签应用
 <img src="https://s3.bmp.ovh/imgs/2022/08/24/3260861c273cfb79.png" width="30%" height="30%">
 
-- 使用 React、JavaScript 和原生组件
-- 在 React Native 应用程序中导航
-- 应用 React Native 应用程序的样式和动画
+介绍：
+- 使用 React、JavaScript 开发
+- 在 React Native 应用程序中实现组件跳转
+- 使用 FlexBox 创建布局
+- 使用 ScollView 使内容滚动，使用 FlatList 优化列表， 
+- 构建iOS 和 Android 应用
+
+```
+npm install -g expo-cli
+npx expo start
+```
